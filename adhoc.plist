@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://183.131.78.68/xuexicenter/ios/xc.ipa</string>
+                   <string>http://123.58.129.47/xuexicenter/ios/xc.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ctylecom.qiniudn.com/XuexiCenter.png</string>
+                   <string>http://www.xuexi.center/images/XuexiCenter.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ctylecom.qiniudn.com/XuexiCenter.png</string>
+                   <string>http://www.xuexi.center/images/XuexiCenter.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
