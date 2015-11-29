@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://123.58.129.47/xuexicenter/ios/beta.ipa</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ctyle.com/system/core/favicons/152x152.png</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.152x152.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ctyle.com/system/core/favicons/152x152.png</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.152x152.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ctyle.studycenter</string>
+               <string>com.ctyle.tcircle-ios-app</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>学习中心</string>
+               <string>Tesla中国 社交网络</string>
                <key>title</key>
-               <string>学习中心</string>
+               <string>T-Circle</string>
            </dict>
        </dict>
    </array>
