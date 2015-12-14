@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.ipa</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/mamaplay-ios-app.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.152x152.png</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/mamaplay-ios-app.152x152.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/tcircle-ios-app.152x152.png</string>
+                   <string>http://7mnntf.com2.z0.glb.qiniucdn.com/mamaplay-ios-app.152x152.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Tesla中国 社交网络</string>
+               <string>妈妈玩去吧</string>
                <key>title</key>
-               <string>T-Circle</string>
+               <string>妈妈玩去吧（内部预览）</string>
            </dict>
        </dict>
    </array>
